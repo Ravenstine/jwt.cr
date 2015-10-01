@@ -1,0 +1,7 @@
+Rakefile
+README.md
+LICENSE
+lib/jwt.cr
+spec/helper.cr
+spec/jwt_spec.cr
+Manifest

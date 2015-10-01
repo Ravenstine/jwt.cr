@@ -1,0 +1,6 @@
+jwt.gemspec
+pkg
+Gemfile.lock
+coverage/
+.DS_Store
+.crystal/
